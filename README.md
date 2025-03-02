@@ -1,4 +1,5 @@
 # MirrorMongoDB
+Ejemplo de como hacer un Mirror en MongoDB, todo mediante Interfaz Gráfica
 
 # Configuración de Conjunto de Réplicas en MongoDB
 
